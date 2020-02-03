@@ -8,6 +8,6 @@ Este taller consta de dos partesque seran evidenciadas:
 
 Se evidencia con capturas de LightHouse el desarrollo del taller
 
-# Parte 2
+#3 Parte 2
 
 Se ha clonado el repo indicado y este repo guarda los ajustes realizados 
